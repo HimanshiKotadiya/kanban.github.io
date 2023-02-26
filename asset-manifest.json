@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kanban.github.io/static/css/main.6646c5fe.css",
+    "main.js": "/kanban.github.io/static/js/main.09f4100d.js",
+    "static/media/back_image.jpg": "/kanban.github.io/static/media/back_image.18a83a6c8ea23d097140.jpg",
+    "index.html": "/kanban.github.io/index.html",
+    "main.6646c5fe.css.map": "/kanban.github.io/static/css/main.6646c5fe.css.map",
+    "main.09f4100d.js.map": "/kanban.github.io/static/js/main.09f4100d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6646c5fe.css",
+    "static/js/main.09f4100d.js"
+  ]
+}
