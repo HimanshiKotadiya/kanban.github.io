@@ -1,0 +1,9 @@
+.modal_root {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(41, 41, 41, 0.85);
+}
